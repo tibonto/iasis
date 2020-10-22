@@ -14,4 +14,4 @@ keywords:
 license: GNU General Public License v3.0
 version: v6.0
 repositoryURL: https://github.com/tibonto/iasis
-releaseURL: https://github.com/tibonto/iasis/releases/tag/v6.0
+releaseURL: https://github.com/tibonto/iasis/releases/tag/R6.0
