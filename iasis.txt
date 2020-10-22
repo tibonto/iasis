@@ -1,0 +1,17 @@
+﻿# Ontology metadata attributes required for registration in the TIB ontology hub.
+# This file should be maintained under the source control and must be released anongside the ontology, under the same versioning scheme.
+# The file name is identical to the ontology's ttl file with .txt extension.
+
+
+shortName: iasis
+title: iASiSOntology
+description: A unified schema for representing data integrated in the iASiS knowledge graph. This schema defines the main classes and properties presented in data sources that make available genomic data, scientific publication, clinical notes, and drug interactions and the relationships among them.
+autorFullName: Samaneh Jozashoori, Maria-Esther Vidal, Maria Isabel Castellanos, Farah Karim
+authorEmail: samaneh.jozashoori@tib.eu, maria.vidal@tib.eu, maria.castellanos@tib.eu, farah.karim@tib.eu
+maintainerFullname: Samaneh Jozashoori
+maintainerEmail: samaneh.jozashoori@tib.eu
+keywords: 
+license: GNU General Public License v3.0
+version: v6.0
+repositoryURL: https://github.com/tibonto/iasis
+releaseURL: https://github.com/tibonto/iasis/releases/tag/v6.0
